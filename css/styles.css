@@ -1,0 +1,45 @@
+body{ background-color: red;
+}
+main{
+  border: solid 5px;
+  border-radius:10px;
+}
+h2{
+  background-color:white;
+  border: solid 5px;
+  border-radius:10px;
+  margin-left:500px;
+  margin-right:500px;
+  margin-top:0;
+  margin-bottom:0;
+  display:flex;
+  justify-content: center;
+  flex-direction:column;
+  align-items: center;
+  padding:20px;
+}
+.additem{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding:10px;
+}
+input{
+  
+}
+button{
+  background-color:red;
+  display:flex;
+  justify-content: center;
+  flex-direction:column;
+  align-items: center;
+  padding:10px;
+}
+div{
+  background-color: pink;
+  border: solid 5px;
+  margin-left:500px;
+  margin-right:500px;
+  padding:5px;
+  
+}
